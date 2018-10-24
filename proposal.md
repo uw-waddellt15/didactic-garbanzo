@@ -36,8 +36,8 @@ We do not have enough practice problems that are unique and different from eacho
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-   Data structures Question Bank.
 
+   Data structures Question Bank.
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
