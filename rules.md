@@ -21,7 +21,8 @@ Discussion and google sheet
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+  Communicate regarding all individual teammate's schedules to organize the work so that deadlines
+  are not missed. When one team member is exceptionally busy other team mates can communicate to cover for them.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
