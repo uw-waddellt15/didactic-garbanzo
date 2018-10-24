@@ -4,7 +4,6 @@
        * GitHub username 2: sseland1          name 2: Scott Selland
        * GitHub username 3: rgrindrod         name 3: Robbie Grindrod
        * GitHub username 4: uw-waddellt15     name 4: Taylor Waddell
-       * GitHub username 5:       name 5:
    * When did you complete this exercise? 
    10/24/18
    * How long did it take your team to complete this exercise? 
