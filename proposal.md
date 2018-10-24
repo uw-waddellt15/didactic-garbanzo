@@ -31,6 +31,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
+We do not have enough practice problems that are unique and different from eachother for data structures on the CS400 exams. A program that could solve this problem would be a software that holds a large number of different questions and continues to give them randomly based on if your answers to the previous questions are correct or not. 
 
 ## Questions to answer for Exercise #2
 
