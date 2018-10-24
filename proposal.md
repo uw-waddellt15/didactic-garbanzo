@@ -58,5 +58,11 @@ We do not have enough practice problems that are unique and different from eacho
 Name each interface or class and briefly describe its function or purpose.
 
 
+
+Custom Data Type  ( question node)
+
+A question data type will contain multiple fields, such as the question itself, the answer to the question and the categories it belongs to. The data type will also have two additional status fields where information about whether the question was answered correctly earlier and whether the question has already been asked will be stored.
+
+
 ## Edit and Submit this file and any figures referenced by this document.
 
