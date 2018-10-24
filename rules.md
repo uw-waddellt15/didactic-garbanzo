@@ -13,7 +13,7 @@ Discussion and google sheet
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+Team members will update the google doc upon completion of their task or if they are having trouble. All team members will check the google doc to make sure we are on track.
 
 
 ## How will will communicate difficulties with a task assigned to us
