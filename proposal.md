@@ -36,35 +36,53 @@ We do not have enough practice problems that are unique and different from eacho
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+Data structures Question Bank
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+First output : A question for the user to solve:
+	Ex: What is 5%2 [________]
+Or
+	Ex: What is the fastest data Structure for lookup [__]
+		A.) AVT
+		B.) HashTable
+		C.) Binary Tree
+	Second output: is a report on how well you did:
+	Ex: Your score report:
+Data Structures understanding [A]
+Basic functions understanding [B+]
+Core concepts understanding  [C-]
+	Syntax fixing 			      [A+]
+
+	Overall: B. Good Job! You did well but could still use work on some concepts.
 
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
+User responses to each question
+	Data from the nodes to see if the answer is correct
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+Output screen : shows the question
+	Input screen : 
+          Text Box  : Answer to the question
+          Selection Panel : to select what category of question user wants to  answer.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+Array of question nodes
+Nodes contain the question itself, the correct answer, a category field, setters, getters, field to keep track of if it has been asked, and if the user got it correct
+Scores for each category - based on number correct/total number
+Overall score
+Constructor
+Some sort of stop method that the user can use to end the questions
+
+Question nodes will be stored in a hashtable that uses an array of linked lists
 
 
 
 Name each interface or class and briefly describe its function or purpose.
-
-Main Java Class: 
-Will be used to interpret input of how the user is answering, send the data into our data structure class. Then the main class will interpret data from the data structure and use the question generator to present a new question to the user again. Eventually the main class will present the end results as well.
-
-Data structure class
-This is where we will store the question/answers, to eventually be interpreted by the main class. 
-
-Question Generator class
-This is where we will give the type of question we want to be generated and return it to the main class to be presented to the user.
 
 Custom data structure:
 The custom data structure will be a hash table that stores the question nodes. The hashtable will use an array of linked lists. The question nodes themselves will be in the linked lists. There will be fields to keep track of total number correct, total number correct and number correct per category, 
@@ -72,8 +90,6 @@ The custom data structure will be a hash table that stores the question nodes. T
 Custom Data Type  ( question node)
 
 A question data type will contain multiple fields, such as the question itself, the answer to the question and the categories it belongs to. The data type will also have two additional status fields where information about whether the question was answered correctly earlier and whether the question has already been asked will be stored.
-
-
 
 
 ## Edit and Submit this file and any figures referenced by this document.
