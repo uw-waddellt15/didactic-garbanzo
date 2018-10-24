@@ -60,6 +60,9 @@ Name each interface or class and briefly describe its function or purpose.
 Custom data structure:
 The custom data structure will be a hash table that stores the question nodes. The hashtable will use an array of linked lists. The question nodes themselves will be in the linked lists. There will be fields to keep track of total number correct, total number correct and number correct per category, 
 
+Custom Data Type  ( question node)
+
+A question data type will contain multiple fields, such as the question itself, the answer to the question and the categories it belongs to. The data type will also have two additional status fields where information about whether the question was answered correctly earlier and whether the question has already been asked will be stored.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
