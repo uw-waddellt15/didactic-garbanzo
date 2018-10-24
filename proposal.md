@@ -37,7 +37,7 @@ We do not have enough practice problems that are unique and different from eacho
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-   Data structures Question Bank.
+
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
@@ -57,16 +57,8 @@ We do not have enough practice problems that are unique and different from eacho
 
 Name each interface or class and briefly describe its function or purpose.
 
-Main Java Class: 
-Will be used to interpret input of how the user is answering, send the data into our data structure class. Then the main class will interpret data from the data structure and use the question generator to present a new question to the user again. Eventually the main class will present the end results as well.
-
-Data structure class
-This is where we will store the question/answers, to eventually be interpreted by the main class. 
-
-Question Generator class
-This is where we will give the type of question we want to be generated and return it to the main class to be presented to the user.
-
-Interface: where questions will be presented and a user will be able to select or type in their answer
+Custom data structure:
+The custom data structure will be a hash table that stores the question nodes. The hashtable will use an array of linked lists. The question nodes themselves will be in the linked lists. There will be fields to keep track of total number correct, total number correct and number correct per category, 
 
 
 
